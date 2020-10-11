@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/healthfinder/static/css/main.bccb7007.chunk.css",
+    "main.js": "/healthfinder/static/js/main.4b9ef9bc.chunk.js",
+    "main.js.map": "/healthfinder/static/js/main.4b9ef9bc.chunk.js.map",
+    "runtime-main.js": "/healthfinder/static/js/runtime-main.fcb3f67d.js",
+    "runtime-main.js.map": "/healthfinder/static/js/runtime-main.fcb3f67d.js.map",
+    "static/js/2.042d345e.chunk.js": "/healthfinder/static/js/2.042d345e.chunk.js",
+    "static/js/2.042d345e.chunk.js.map": "/healthfinder/static/js/2.042d345e.chunk.js.map",
+    "index.html": "/healthfinder/index.html",
+    "precache-manifest.ab4071ad80f1a9c39fa3babeab23e0fe.js": "/healthfinder/precache-manifest.ab4071ad80f1a9c39fa3babeab23e0fe.js",
+    "service-worker.js": "/healthfinder/service-worker.js",
+    "static/css/main.bccb7007.chunk.css.map": "/healthfinder/static/css/main.bccb7007.chunk.css.map",
+    "static/js/2.042d345e.chunk.js.LICENSE.txt": "/healthfinder/static/js/2.042d345e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fcb3f67d.js",
+    "static/js/2.042d345e.chunk.js",
+    "static/css/main.bccb7007.chunk.css",
+    "static/js/main.4b9ef9bc.chunk.js"
+  ]
+}
